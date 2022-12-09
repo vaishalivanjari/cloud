@@ -10,6 +10,7 @@ handlers:
   - url: /.*
   script: this field is required, but ignored
   secure: always
+  script: auto
 manual_scaling:
   instances: 1
 
